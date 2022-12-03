@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\bin\Debug\net6.0\task7.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\bin\Debug\net6.0\task7.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\bin\Debug\net6.0\task7.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\bin\Debug\net6.0\task7.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\bin\Debug\net6.0\task7.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\refint\task7.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\task7.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task7\obj\Debug\net6.0\ref\task7.dll
