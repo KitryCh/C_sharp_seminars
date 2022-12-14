@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\bin\Debug\net6.0\task18.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\bin\Debug\net6.0\task18.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\bin\Debug\net6.0\task18.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\bin\Debug\net6.0\task18.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\refint\task18.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task18\obj\Debug\net6.0\ref\task18.dll
