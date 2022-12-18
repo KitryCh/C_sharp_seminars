@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\bin\Debug\net6.0\task25.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\bin\Debug\net6.0\task25.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\bin\Debug\net6.0\task25.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\bin\Debug\net6.0\task25.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\refint\task25.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task25\obj\Debug\net6.0\ref\task25.dll
