@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\bin\Debug\net6.0\task28.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\bin\Debug\net6.0\task28.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\bin\Debug\net6.0\task28.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\bin\Debug\net6.0\task28.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\bin\Debug\net6.0\task28.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\refint\task28.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\task28.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task28\obj\Debug\net6.0\ref\task28.dll
