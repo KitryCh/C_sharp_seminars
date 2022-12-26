@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\bin\Debug\net6.0\task39.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\bin\Debug\net6.0\task39.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\bin\Debug\net6.0\task39.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\bin\Debug\net6.0\task39.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\bin\Debug\net6.0\task39.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\refint\task39.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\task39.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task39\obj\Debug\net6.0\ref\task39.dll

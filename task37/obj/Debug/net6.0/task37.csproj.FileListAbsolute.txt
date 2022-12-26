@@ -1,0 +1,15 @@
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\bin\Debug\net6.0\task37.exe
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\bin\Debug\net6.0\task37.deps.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\bin\Debug\net6.0\task37.runtimeconfig.json
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\bin\Debug\net6.0\task37.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\bin\Debug\net6.0\task37.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.csproj.AssemblyReference.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.AssemblyInfoInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.AssemblyInfo.cs
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.csproj.CoreCompileInputs.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\refint\task37.dll
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.pdb
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\task37.genruntimeconfig.cache
+C:\Users\eafil\Desktop\GeekBrains\C#_practice\C#1\task37\obj\Debug\net6.0\ref\task37.dll
